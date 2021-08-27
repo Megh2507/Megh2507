@@ -1,10 +1,8 @@
- <h1 align="center">Hi 👋, I'm Megha Paul</h1>
-<h3 align="center">A full stack developer from India</h3>
+ <h1 align="center">Hi 👋, I'm Megha Paul.</h1>
+<h3 align="center">A full stack web developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/1MSVKRopegDjYONwdF/200w.gif?cid=82a1493byyp9q9gm6wdo54wbjz5d18f1uzqxwubk4rfk8vrx&rid=200w.gif&ct=g">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=megh2507&label=Profile%20views&color=0e75b6&style=flat" alt="megh2507" /> </p> -->
-
-- 📝 I regularly write articles on [Geeks for geeks](Geeks for geeks)
 
 - 📫 How to reach me **megha25072001@gmail.com**
 
